@@ -23,8 +23,7 @@
 
 ### 📊 GitHub stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitanwar&show_icons=true&include_all_commits=true&hide_border=true&theme=dark" alt="Rohit's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitanwar&layout=compact&hide_border=true&theme=dark" alt="Top languages" /> |
-| ------------- | ------------- |
+![Metrics](https://metrics.lecoq.io/rohitanwar?template=classic&languages=1&lines=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.ignored=html&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&notable=false&notable.from=organization&notable.repositories=true&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=Asia%2FCalcutta)
 
 ---
 
