@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/rohitanwar?label=Follow&style=social)](https://github.com/rohitanwar)
 [![Blog](https://img.shields.io/badge/blog-tanwar.dev-blue?style=flat-square&logo=hashnode)](https://tanwar.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/rohit-tanwar) <!-- replace with actual URL if you have -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/rohtan) <!-- replace with actual URL if you have -->
 [![Hireable](https://img.shields.io/badge/hireable-yes-brightgreen?style=flat-square)](https://github.com/rohitanwar)
 
 ---
